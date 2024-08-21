@@ -1,0 +1,1 @@
+Hauptstadt von [[../Provinzen/Thorn|Thorn]]

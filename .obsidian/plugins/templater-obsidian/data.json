@@ -1,0 +1,52 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Misc/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "NPCs",
+      "template": "Misc/Templates/NPC-Generator.md"
+    },
+    {
+      "folder": "Städte",
+      "template": "Misc/Templates/Siedlung-Generator.md"
+    },
+    {
+      "folder": "Orte",
+      "template": "Misc/Templates/Ort-Generator.md"
+    },
+    {
+      "folder": "Resourcen",
+      "template": "Misc/Templates/Resource-Generator.md"
+    },
+    {
+      "folder": "Götter",
+      "template": "Misc/Templates/Gott-Generator.md"
+    },
+    {
+      "folder": "Gilden",
+      "template": "Misc/Templates/Gilde-Generator.md"
+    },
+    {
+      "folder": "Quests",
+      "template": "Misc/Templates/Quest-Generator.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ]
+}

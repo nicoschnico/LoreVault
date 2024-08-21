@@ -1,0 +1,2 @@
+#Elf #männlich
+Iremeriest ist ein Elf, von unbekanntem Alter. Er reist durch Dimensionen und Realitätsebenen, immer auf der Suche nach Helden, die Unterstützung benötigen oder nach Personen, die zu Helden gemacht werden können, um ihre Realität gegen die Mächte des Bösen zu verteidigen. Auf seinen Reisen wird der von [[Quesse]] begleitet, einem Lama das statt in Fell in grüne Federn gekleidet ist.  

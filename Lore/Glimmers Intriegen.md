@@ -1,0 +1,1 @@
+[[NPCs/Glimmer Sonnenstrahl]] veruntreut heimlich Gelder und Arbeitet darauf hin, [[Bolumia]] vom Land [[Länder/Unheilia]] übernehmen zu lassen.

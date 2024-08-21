@@ -1,0 +1,9 @@
+{
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true
+}

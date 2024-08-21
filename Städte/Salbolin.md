@@ -1,0 +1,1 @@
+Haupstadt der Provinz [[Exigonia]] und des Königreichs [[Malboria]]

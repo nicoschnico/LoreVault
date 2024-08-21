@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Age": "number",
+    "AssociatedGroup": "text",
+    "Location": "text",
+    "exports": "text"
+  }
+}

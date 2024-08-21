@@ -1,0 +1,1 @@
+Hauptstadt von Provinz [[../Provinzen/Prescom|Prescom]]
