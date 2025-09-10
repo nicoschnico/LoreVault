@@ -6,7 +6,7 @@ Age: 40
 Class: 
 Alignment: "#good"
 Character-Role: Koordiniert die Feldarbeit und hilf ihrem Mann in der Schmiede
-Location: [[Spiglia]]
+Location: "[[Spiglia]]"
 NoteIcon: npc
 ---
 

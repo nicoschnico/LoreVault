@@ -12,7 +12,7 @@ size: small
 population: 200
 commonraces: Mensch
 religion: "[[]]"
-exports: [Eisen,Kupfer,Resourcen/Gold]
+exports: [Eisen,Kupfer,Gold]
 imports: [Holz]
 ---
 > [!infobox]

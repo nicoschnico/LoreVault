@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "spiglia",
+  "search": "glimmer",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,107 +8,107 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:NPCs  ",
-      "color": {
-        "a": 1,
-        "rgb": 64511
-      }
-    },
-    {
-      "query": "path:Länder  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:Spielercharaktere  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "path:Fraktionen  ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Völker  ",
-      "color": {
-        "a": 1,
-        "rgb": 4033136
-      }
-    },
-    {
-      "query": "path:Provinzen  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "path:Götter ",
-      "color": {
-        "a": 1,
-        "rgb": 15856722
-      }
-    },
-    {
-      "query": "path:Städte",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:Lore  ",
-      "color": {
-        "a": 1,
-        "rgb": 16056320
-      }
-    },
-    {
-      "query": "path:Orte  ",
-      "color": {
-        "a": 1,
-        "rgb": 16339892
-      }
-    },
-    {
-      "query": "path:Resourcen  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
+        "rgb": 14048348
       }
     },
     {
       "query": "path:Gilden  ",
       "color": {
         "a": 1,
-        "rgb": 3124662
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Götter  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Länder  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     },
     {
       "query": "path:Quests  ",
       "color": {
         "a": 1,
-        "rgb": 12605186
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:Provinzen  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Orte  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:Resourcen  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514821
+      }
+    },
+    {
+      "query": "path:Spielercharaktere  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Städte  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.325,
-  "lineSizeMultiplier": 2.06510416666667,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.729166666666667,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3810115287860525,
-  "close": false
+  "scale": 0.558363314073791,
+  "close": true
 }

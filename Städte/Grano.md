@@ -63,18 +63,36 @@ importLinks:
 
 # `=this.title`
 ## Overview
-Placeholder
+* Häuser mit 2-3 Etagen. EG i.d.R aus Stein, Rest ist Fachwerk
+* Palastbezirk ist von Stadtmauer umgeben 
+	--> Eintritt nur für Adlige, wichtige Leute aus dem Volk
+
+
 ## Notable NPCs
-Placeholder
+[[NPCs/Felix von Ferrum]] (Lokaler Anführer der Schmiedegilde) (Wappen ist Ambos mit Flammen dahinter)
+[[NPCs/Salem Salerim]] (Lokaler Anführer der [[Handelsgilde]])
+[[NPCs/Marim Malbor]] (Bruder vom König) (Siegelgilde:Goldsiegel)
+[[Glimmer Sonnenstrahl]]
+[[Siglaz Bolum II]]
+### Adelsgeschlechter
+* Sonnenstrahl
+* Malbor 
+* Salerim
+* Bolum
+* Ferrum
+* Blaag (Erudio (Doktorant/Historiker))
 
 ## Profile
-Placeholder
+
 
 ## Story
 Placeholder
 
 ## Points of Interest
-Placeholder
+Marktplatz
+Bibliothek
+Palast
+Lagerhäuser
 
 ## Valuables
 Placeholder
@@ -91,6 +109,10 @@ Placeholder
 ## Additional Details
 Placeholder
 
-
-
-
+## Quests
+```dataview
+table regexreplace(file.folder, "^Quests/", "") as "Status"
+from "Quests" 
+where location = this.file.name 
+sort regexreplace(file.folder, "^Quests/", "") asc, file.name asc
+```

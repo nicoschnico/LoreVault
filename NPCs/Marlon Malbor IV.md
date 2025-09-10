@@ -1,12 +1,14 @@
 ---
-AssociatedGroup: "[[Haus Malbor]]"
+associatedGroup_tag: "[[Haus Malbor]]"
+associatedGroup: Haus Malbor
 Gender: "#männlich"
 Race: "#Mensch"
 Age: 68
 Class: Adlig
 Alignment: "#good"
 Character-Role: König von Malboria
-Location: "[[Salbolin]]"
+location_tag: "[[Salbolin]]"
+Location: Salbolin
 NoteIcon:
 Condition: krank
 ---

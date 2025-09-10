@@ -1,5 +1,5 @@
 #Hobgoblin, Paladin
-
+Teil von die [[Die Gruppe]]
 # Geschichte
 ## Herkunft und Jugend:
 
@@ -45,4 +45,4 @@ Mittelfristig:
 [[Ein Hauch von Göttlichkeit]]
 
 Langfristig:
-[[Quests/Der Aufsteigende Stern]]
+[[Der Aufsteigende Stern]]

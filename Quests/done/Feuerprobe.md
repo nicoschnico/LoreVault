@@ -5,7 +5,7 @@ types : [persönlich, fraktion, gruppe, dorf]
 ### Questgeber:
 
 ### Zustand
-#inaktiv 
+#abgeschlossen 
 ### Art
 #fraktion 
 ### Beschreibung

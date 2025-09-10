@@ -51,11 +51,8 @@ imports:
 
 # `=this.title`
 ## Overview
-Placeholder
+Minenstadt für [[Eisen]] und [[Kupfer]]
 ## Notable NPCs
-Placeholder
-
-## Profile
 Placeholder
 
 ## Story
@@ -65,12 +62,6 @@ Placeholder
 Placeholder
 
 ## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
 Placeholder
 
 ## Background

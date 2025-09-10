@@ -1,5 +1,8 @@
 [
   "templater-obsidian",
   "dataview",
-  "various-complements"
+  "various-complements",
+  "mrj-text-expand",
+  "ai_llm",
+  "arenasys-ai-chat"
 ]

@@ -10,13 +10,15 @@ Aktuell halten sie [[Spiglia]] in ihrer Gewalt und stoßen sich an den Reserven 
 	[[Rimur Schmetterschlag]] (Bandit Captain)
 
 **Gefolgsleute**
-	[[Elsa]] (Scout)
-	[[Dorian]] (Scout)
-	[[Orin]] (Guard)
-	[[Marek]] (Guard)
+	[[Harlan]] (Heiler) (Auf Mission zur Höhle)
+	[[Dorian]] (Scout) (Auf Mission zur Höhle)
+	[[Orin]] (Guard) (Auf Mission zur Höhle)
+	[[Garret]] (Guard) (Auf Mission zur Höhle)
 	[[Vigo]] (Guard)
+	[[Puppy]] (Guard)
+	[[Poppy]] (Guard)
+
+Tot:
+	[[Elsa]] (Scout)
+	[[Marek]] (Guard)
 	[[Bran]] (Guard)
-	[[Garret]] (Guard)
-	[[Puppy]] (Dog)
-	[[Poppy]] (Dog)
-	[[Harlan]] (Heiler)

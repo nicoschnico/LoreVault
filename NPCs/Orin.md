@@ -6,7 +6,7 @@ Age: 25
 Class: Druid
 Alignment: "#evil"
 Character-Role: Schleicht sich mit Wild Shape in Dörfer um Dämonen anzulocken, danach kommen die [[Nebelschilde]] um hilfe anzubieten
-Location: 
+Location: Spiglia
 NoteIcon:
 Condition: gesund
 ---

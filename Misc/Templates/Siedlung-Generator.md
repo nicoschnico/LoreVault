@@ -1,5 +1,5 @@
 <%*
-let title = await tp.system.prompt("Name der Siedlung");
+let title = await tp.system.prompt("Name der Siedlung", tp.file.title);
 await tp.file.move("/Städte/" + title)
 
 let communitySize = await tp.system.prompt("Enter Community Size") ?? "-";
@@ -92,7 +92,12 @@ _%>
 ## Overview
 Placeholder
 ## Notable NPCs
-Placeholder
+```dataview
+table regexreplace(file.folder, "^NPCs/", "") as "Status"
+from "NPCs" 
+where location = this.file.name
+sort regexreplace(file.folder, "^NPCs/", "") asc, file.name asc
+```
 
 ## Profile
 Placeholder
@@ -118,6 +123,12 @@ Placeholder
 ## Additional Details
 Placeholder
 
-
+## Quests
+```dataview
+table regexreplace(file.folder, "^Quests/", "") as "Status"
+from "Quests" 
+where location = this.file.name 
+sort regexreplace(file.folder, "^Quests/", "") asc, file.name asc
+```
 
 

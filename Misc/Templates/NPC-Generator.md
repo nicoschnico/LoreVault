@@ -19,13 +19,16 @@ await tp.file.move("/NPCs/" + title);
 // Write the frontmatter properties
 tR += `---
 Gender: "#${gender}"
-AssociatedGroup: "[[${associatedGroup}]]"
+associatedGroup: ${associatedGroup}
+associatedGroup_tag: "[[Fraktionen/${associatedGroup}]]"
 Race: "#${race}"
 Age: ${age}
 Class: ${charClass}
 Alignment: "#${alignment}"
 Character-Role: ${charRole}
-Location: "[[${location}]]"
+location: ${location}
+location_tag: "[[${location}]]"
+
 NoteIcon:
 Condition: ${condition}
 ---
@@ -39,8 +42,8 @@ _%>
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
+> Home | `=this.location_tag` |
+> Group | `=this.associatedGroup_tag` |
 > Sex | `=this.gender` |
 > Race | `=this.race` |
 > Age | `=this.age` |

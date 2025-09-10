@@ -49,7 +49,7 @@ imports:
 > Exports | `=this.exports` |
 > Imports | `=this.imports` |
 
-
+[[Lore/Unruhen in Bolumia]]
 # `=this.title`
 ## Overview
 Placeholder
@@ -78,7 +78,7 @@ Placeholder
 Placeholder
 
 ## Additional Details
-Placeholder
+
 
 
 

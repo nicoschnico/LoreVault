@@ -33,4 +33,4 @@ Condition: chronischer Husten
 hat durch die lange Arbeit in den Salzgruben einen chronischen Husten entwickelt.
 
 ## Aufträge
-stellt jeden tageweise ein, der sich etwas dazuverdienen möchte: [[Quests/Salzernte - Spiglia]]
+stellt jeden tageweise ein, der sich etwas dazuverdienen möchte: [[Salzernte - Spiglia]]

@@ -1,3 +1,7 @@
+---
+location : [[Shorbec]]
+---
+
 ### Questgeber:
 [[Shorbec]]
 ### Zustand

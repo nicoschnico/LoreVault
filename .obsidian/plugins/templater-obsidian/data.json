@@ -41,6 +41,10 @@
     {
       "folder": "Quests",
       "template": "Misc/Templates/Quest-Generator.md"
+    },
+    {
+      "folder": "Fraktionen",
+      "template": "Misc/Templates/Fraktion-Generator.md"
     }
   ],
   "syntax_highlighting": true,
