@@ -1,2 +1,2 @@
 in [[../Länder/Malboria|Malboria]]
-Haupstadt [[Prescom]]
+Haupstadt [[Provinzen/Prescom]]

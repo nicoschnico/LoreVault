@@ -4,104 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "d255fce5673eb1ba",
+        "id": "88825e4bed9ad1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6139e72cad3a7b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4471a388f21ab8d8",
+            "id": "f596678ca954a9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Tanz der Dämonen.md",
+                "file": "Fraktionen/Kriminelle/Langfinger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Langfinger"
+            }
+          },
+          {
+            "id": "068225571d039913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Josua Klingbeutel.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tanz der Dämonen"
+              "title": "Josua Klingbeutel"
             }
           },
           {
-            "id": "5b0e8f6d07ac98c8",
+            "id": "e6a19e6a600d80d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Länder/Malboria.md",
+                "file": "Quests/active/Lagerhausraub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Malboria"
+              "title": "Lagerhausraub"
             }
           },
           {
-            "id": "475e93f2d8998e2d",
+            "id": "0e185bdbd14c2ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fraktionen/Druidenzirkel des Landes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Druidenzirkel des Landes"
-            }
-          },
-          {
-            "id": "045de1b3bf5b9769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Brunak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brunak"
-            }
-          },
-          {
-            "id": "151d931a84468b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Korrumpierung von Primus.md",
+                "file": "Dämonen/Graz'zt.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Korrumpierung von Primus"
+              "title": "Graz'zt"
             }
           },
           {
-            "id": "5a6412e68d786fa1",
+            "id": "ab6f593ab7f97b6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Items/Eichel der Umkehr.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 3.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Eichel der Umkehr"
+              "icon": "lucide-table",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "si",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,11 +227,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -266,40 +242,43 @@
       "ai_llm:Local LLM Chat": false
     }
   },
-  "active": "4f6139e72cad3a7b",
+  "active": "eb42bf263b797e34",
   "lastOpenFiles": [
-    "Lore/Tanz der Dämonen.md",
-    "Lore/Korrumpierung von Primus.md",
-    "Lore/Die Riesen.md",
-    "Riesen.md",
-    "Lore/Runen.md",
-    "Untitled.md",
-    "NPCs/Brunak.md",
-    "Fraktionen/Druidenzirkel des Landes.md",
-    "Items/Eichel der Umkehr.md",
-    "Orte/Wucht-Kammer.md",
-    "Items/Händleramulet.md",
-    "NPCs/Raweli.md",
-    "Lore/Die 17 letzten Wächter.md",
-    "Lore/Vorgeschichte.md",
-    "Länder/Malboria.md",
+    "Dämonen/Graz'zt.md",
+    "Untitled 3.base",
+    "Quests/active/Lagerhausraub.md",
+    "NPCs/Josua Klingbeutel.md",
+    "Untitled 2.base",
+    "Fraktionen/Kriminelle/Langfinger.md",
+    "NPCs/Roderick.md",
+    "NPCs/Marek.md",
+    "NPCs/.md",
+    "Städte/Prescom.md",
+    "Städte/Posias.md",
+    "Städte/Salbolin.md",
+    "Städte/Prescom2.md",
+    "NPCs/Bruto Joésa.md",
+    "Untitled 1.base",
     "Brunak.md",
-    "Länder/Shekia.md",
-    "NPCs/Moosbach Klammhain.md",
-    "Provinzen/Westfordia.md",
-    "Länder/Feywild.md",
-    "NPCs/Gerstin Pflugreiter.md",
-    "Städte/Charley.md",
-    "NPCs/Felix von Ferrum.md",
-    "Fraktionen/Die Gruppe.md",
+    "Riesen.md",
+    "Untitled.md",
+    "Untitled.base",
+    "Provinzen/Prescom.md",
+    "Items/Eichel der Umkehr.md",
+    "Lore/Korrumpierung von Primus.md",
+    "Gilden/Religionsgilde.md",
+    "Gilden/Schiffahrtsgilde.md",
+    "Lore/Zwei Monate auf den Mauern von Sobarren.md",
+    "NPCs/Brunak.md",
+    "Provinzen/Bolumia.md",
+    "Items/Händleramulet.md",
+    "NPCs/Trador Joésa.md",
     "Misc/Images/Pasted image 20250529124332.png",
     "Misc/Images/Pasted image 20250226173210.png",
     "Misc/Images/Pasted image 20250226173307.png",
     "Misc/Images/Pasted image 20250529124210.png",
     "Misc/Images/Pasted image 20250226173147.png",
     "Misc/Images/Pasted image 20250226172800.png",
-    "Misc/Templates/NPC-Generator.md",
-    "Fraktionen/Kriminelle/Langfinger.md",
     "Misc/Images/Pasted image 20241212171528.png",
     "Misc/Images/Pasted image 20240909090615.png",
     "Misc/Images/Pasted image 20240909090648.png",
@@ -310,10 +289,6 @@
     "Quests/inactive",
     "Quests/done",
     "Quests/active",
-    "Untitled.canvas",
-    "Sessions",
-    "Verschiedenes",
-    "Dämonen",
-    "Misc/Images"
+    "Untitled.canvas"
   ]
 }

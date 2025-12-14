@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "glimmer",
+  "search": "prescom",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -109,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.558363314073791,
-  "close": true
+  "scale": 0.826510521545992,
+  "close": false
 }

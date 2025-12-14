@@ -1,0 +1,35 @@
+{
+  "current": 1,
+  "names": [
+    "Default",
+    "DM"
+  ],
+  "settings": [
+    {
+      "apiProvider": "openai",
+      "apiModel": "gpt-4",
+      "apiModelCustom": "",
+      "apiKey": "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",
+      "apiEndpoint": "",
+      "systemPrompt": "You are an assistant in Obsidian, a note-taking program. Shared notes/documents are provided. Dont show the document formatting (BEGIN DOCUMENT etc).",
+      "maxTokens": null,
+      "temperature": null,
+      "topK": null,
+      "topP": null,
+      "frequencyPenalty": null
+    },
+    {
+      "apiProvider": "openai",
+      "apiModel": "gpt-4",
+      "apiModelCustom": "",
+      "apiKey": "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",
+      "apiEndpoint": "",
+      "systemPrompt": "You are an assistant in Obsidian, a note-taking program. Shared notes/documents are provided. Dont show the document formatting (BEGIN DOCUMENT etc).",
+      "maxTokens": null,
+      "temperature": null,
+      "topK": null,
+      "topP": null,
+      "frequencyPenalty": null
+    }
+  ]
+}
