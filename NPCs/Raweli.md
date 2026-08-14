@@ -35,4 +35,7 @@ Condition: healthy
 [[Die Gruppe]] fand Raweli auf dem Wagen eines Tierhändlers, nachdem dieser von Rawelis Mutter verfolgt und getötet wurde. Die Wut der Mutter richtete sich anschließend auch gegen [[Die Gruppe]], die den Eulenbären daraufhin niederstreckte. Mit etwas Einfühlungsvermögen und geschickter Verkleidung gelang es [[Kabali Deneti]] nach einiger Zeit das Vertrauen des Eulenbärenkükens zu gewinnen. Seitdem reist Raweli mit der Gruppe und versucht Kabali so gut es geht zu beschützen. Denn wer füttert, wird beschützt. 
 
 ![[Pasted image 20250529124210.png]]
-## Aufträge
+## Taming
+DC 14
+Missed
+Success: |

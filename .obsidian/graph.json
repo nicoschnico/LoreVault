@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "prescom",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,14 +74,14 @@
       "query": "path:Resourcen  ",
       "color": {
         "a": 1,
-        "rgb": 16514821
+        "rgb": 0
       }
     },
     {
       "query": "path:Spielercharaktere  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16771584
       }
     },
     {
@@ -92,10 +92,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Dämonen  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 14048348
       }
     }
   ],
@@ -109,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.826510521545992,
+  "scale": 0.12376650285592918,
   "close": false
 }

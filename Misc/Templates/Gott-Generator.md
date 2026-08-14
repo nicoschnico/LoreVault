@@ -2,7 +2,7 @@
 let price, usage, unit, title, amountDom
 
 // Prompt for each property
-title = await tp.system.prompt("Titel");
+title = await tp.system.prompt("Titel", tp.file.title);
 name = await tp.system.prompt("Name");
 amountDom = await tp.system.prompt("Wie viele Domains / Avatare)? ");
 domains = await tp.system.prompt("Domänen:");

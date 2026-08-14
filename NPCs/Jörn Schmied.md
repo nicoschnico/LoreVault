@@ -2,7 +2,7 @@
 Bürgermeister von [[Städte/Spiglia|Spiglia]]
 
 45 Jahre alt
-verheiratet mit [[../NPCs/Amanda Schmied|Amanda Schmied]]
+verheiratet mit [[Amanda Schmied|Amanda Schmied]]
 
 Sohn: [[Bruno Schmied]]
 

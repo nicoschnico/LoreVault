@@ -10,6 +10,8 @@ Diese Runen werden verwendet, um Waffen und Gegenstände mit magischen Kräften 
 --> Lightning
 ### **Heilrunen**
 Diese Runen werden eingesetzt, um Wunden und Verletzungen zu heilen. Sie sind besonders wichtig, um die Überlebenschancen der Menschen in einer Welt voller ständiger Dämonenangriffe zu erhöhen.
+
+--> Mondlicht --> add proficiency Bonus on Short Rest spendet Mondlicht
 ### **Versiegelungsrunen**
 Versiegelungsrunen können Dämonen an Orte binden oder sie sogar einsperren. Diese sind besonders mächtig, da sie es ermöglichen, Dämonen für längere Zeiträume zu neutralisieren.
 ### **Verstärkungsrunen**
@@ -21,6 +23,7 @@ Diese Runen werden verwendet, um das Wetter zu beeinflussen oder den Wind zu kon
 
 ### **Blutrunen**
 Diese speziellen Runen erfordern das Blut des Nutzers, um aktiviert zu werden. Sie sind besonders mächtig und werden oft in verzweifelten Situationen eingesetzt. Das Blutopfer verstärkt die Magie der Rune, birgt jedoch auch große Risiken für den Anwender.
+
 
 ### 9. **Spezialrunen**
 Im Laufe der Geschichte entdecken die Protagonisten immer wieder neue, spezielle Runen, die in vergessenen Schriften oder von uralten Kulturen stammen. Diese Runen sind oft einzigartig und werden nur in bestimmten Situationen verwendet.

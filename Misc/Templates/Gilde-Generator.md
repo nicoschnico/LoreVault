@@ -1,5 +1,5 @@
 <%*
-let name = await tp.system.prompt("Name der Gilde");
+let name = await tp.system.prompt("Name der Gilde", tp.file.title);
 let home = await tp.system.prompt("Hauptsitz");
 let leader = await tp.system.prompt("Anführer:");
 let services = await tp.system.prompt("Dienste:");

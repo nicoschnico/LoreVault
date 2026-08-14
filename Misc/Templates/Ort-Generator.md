@@ -2,7 +2,7 @@
 let type, associatedGroup, treasures, shortDescription
 
 // Prompt for each property
-title = await tp.system.prompt("Name des Orts");
+title = await tp.system.prompt("Name der Quest", tp.file.title);
 type = await tp.system.prompt("Typ des Orts");
 associatedGroup = await tp.system.prompt("Kontrolliert von:");
 shortDescription = await tp.system.prompt("Kurze Beschreibung");

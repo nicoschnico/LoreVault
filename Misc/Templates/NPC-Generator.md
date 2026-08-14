@@ -2,7 +2,7 @@
 let title, associatedGroup, gender, race, age, charClass, alignment, charRole, location, condition;
 
 // Prompt for each property
-title = await tp.system.prompt("Enter NPC Name");
+title = await tp.system.prompt("Enter NPC Name", tp.file.title);
 associatedGroup = await tp.system.prompt("Enter Associated Group");
 gender = await tp.system.prompt("Enter Gender");
 race = await tp.system.prompt("Enter Race");
@@ -14,7 +14,8 @@ location = await tp.system.prompt("Enter Location");
 condition = await tp.system.prompt("Enter Condition");
 
 // Move the file to the new location with the NPC's name
-await tp.file.move("/NPCs/" + title);
+let currentFolder = tp.file.folder(true);  
+await tp.file.move(`${currentFolder}/${title}`);
 
 // Write the frontmatter properties
 tR += `---

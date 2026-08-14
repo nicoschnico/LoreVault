@@ -1,9 +1,9 @@
 ---
-name : Siegelgilde
+name: Siegelgilde
 home: "[[Salbolin]]"
-services: "Siegelwartung und Zeichnung"
-leader: "[[NPCs/AnführerSiegelgilde]]"
-shortDescription: "Wird gerufen, um Schutzsiegel zu warten und neu anzulegen. Schickt Patrouillen über die Hauptstraßen, um die Schutzhäuser in Stand zu halten"
+services: Siegelwartung und Zeichnung
+leader: "[[Alvarion Crest]]"
+shortDescription: Wird gerufen, um Schutzsiegel zu warten und neu anzulegen. Schickt Patrouillen über die Hauptstraßen, um die Schutzhäuser in Stand zu halten
 NoteIcon:
 ---
 > [!infobox]
@@ -23,7 +23,12 @@ NoteIcon:
 | Goldsiegel     | Leitung von lokalen Zweigstellen (20 Jahre Erfahrung) |
 | Platinsiegel   | Oberhaupt der Gilde                                   |
 | Elektrumsiegel | Berater, Ehrentitel                                   |
+|                |                                                       |
 
 # Wichtige Personen
 Leiter der Niederlassung in Grano: [[NPCs/Marim Malbor]]
+Platinsiegel ist [[Alvarion Crest]]
+
+
 # Notizen
+Gehalt 1-2 gp für Silbersiegel

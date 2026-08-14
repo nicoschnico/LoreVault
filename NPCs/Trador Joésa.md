@@ -1,7 +1,7 @@
 ---
 Gender: "#Male"
 associatedGroup: Joésa-Händlerdynastie
-associatedGroup_tag: "[[Fraktionen/Joésa-Händlerdynastie]]"
+associatedGroup_tag: "[[Joésa-Händlerdynastie]]"
 Race: "#Human"
 Age: 34
 Class: Händler (Adelsspross)
@@ -9,7 +9,6 @@ Alignment: "#Neutral"
 Character-Role: Sohn einer Händlerdynastie, abgesetzter Erbe
 location: Spiglia
 location_tag: "[[Spiglia]]"
-
 NoteIcon:
 Condition: Geschwächt, mittellos
 ---

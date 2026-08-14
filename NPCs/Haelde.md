@@ -1,22 +1,25 @@
 ---
-Gender: "#asd"
-AssociatedGroup: "[[asd]]"
-Race: "#asd"
-Age: asd
-Class: as
-Alignment: "#das"
-Character-Role: das
-Location: "[[das]]"
+Gender: "#female"
+associatedGroup: Riesen
+associatedGroup_tag: "[[Fraktionen/Riesen]]"
+Race: "#Giant"
+Age: -
+Class: -
+Alignment: "#neutral"
+Character-Role: Mondwächterin
+location: Mondobservatorium
+location_tag: "[[Mond-Observatorium]]"
+
 NoteIcon:
-Condition: das
+Condition: dead
 ---
 > [!infobox]
 > # `=this.file.name`
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
+> Home | `=this.location_tag` |
+> Group | `=this.associatedGroup_tag` |
 > Sex | `=this.gender` |
 > Race | `=this.race` |
 > Age | `=this.age` |
