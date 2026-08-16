@@ -8,143 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33f4b2bb2f41b64b",
+            "id": "2af5d08b8f493c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dämonen/Prinzen/Graz'zt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Graz'zt"
-            }
-          },
-          {
-            "id": "1705ec660e3c46a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Jotun - Das fliegende Schiff.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jotun - Das fliegende Schiff"
-            }
-          },
-          {
-            "id": "9a09506ee0ad8a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Übergreifend/Tanz der Dämonen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tanz der Dämonen"
-            }
-          },
-          {
-            "id": "659098df0e43b268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Cassian Cambririan.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cassian Cambririan"
-            }
-          },
-          {
-            "id": "cf1614ee99906742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Salbolin - Auktion.md",
+                "file": "Sessions/16_08_26 - Höhlen unter Salbolin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salbolin - Auktion"
+              "title": "16_08_26 - Höhlen unter Salbolin"
             }
           },
           {
-            "id": "f281e7aba6fb824d",
+            "id": "7bac675a8b2bb36b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/active/Zollhausleck von Vorbolin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zollhausleck von Vorbolin"
-            }
-          },
-          {
-            "id": "32fb778f0f9c0955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/21_06_26 - Auktion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21_06_26 - Auktion"
-            }
-          },
-          {
-            "id": "e1eaaae05a51ea68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Salbolin/Elowen Voss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elowen Voss"
-            }
-          },
-          {
-            "id": "64aad0f490a0151f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/active/Zollhausleck von Vorbolin.md",
+                "file": "Orte/Underdark/Landkarte - Underdark (Salbolin-Region).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zollhausleck von Vorbolin"
+              "title": "Landkarte - Underdark (Salbolin-Region)"
             }
           },
           {
-            "id": "2c7a9598e76795db",
+            "id": "55276c852bcaedcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dämonen/Zerg/Zerg Bestiary.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zerg Bestiary"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tanz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,54 +228,54 @@
       "ai_llm:Local LLM Chat": false
     }
   },
-  "active": "9a09506ee0ad8a19",
+  "active": "7bac675a8b2bb36b",
   "lastOpenFiles": [
-    "Orte/Jotun - Das fliegende Schiff.md",
-    "NPCs/Salbolin/Alvarion Crest.md",
-    "NPCs/Cassian Cambririan.md",
-    "Dämonen/Prinzen/Graz'zt.md",
-    "Lore/Übergreifend/Tanz der Dämonen.md",
-    "Städte/Salbolin/Struktur von Salbolin.md",
-    "NPCs/Salbolin/Elowen Voss.md",
-    "Javelin of Lightning.md",
-    "Sessions/21_06_26 - Auktion.md",
-    "Quests/active/Zollhausleck von Vorbolin.md",
-    "Sessions/Salbolin - Auktion.md",
-    "NPCs/Salbolin/Terren Valis.md",
+    "Dämonen/Zerg/Zerg Bestiary.md",
+    "Dämonen/Zerg/Zergling.md",
+    "Dämonen/Zerg/Queen.md",
+    "Orte/Underdark/Landkarte - Underdark (Salbolin-Region).md",
+    "Sessions/16_08_26 - Höhlen unter Salbolin.md",
+    "Dämonen/Zerg/Overlord.md",
+    "Dämonen/Zerg/Broodling.md",
+    "Dämonen/Zerg/Defiler.md",
+    "Dämonen/Zerg/Creep Tumor.md",
+    "Dämonen/Zerg/Ultralisk.md",
+    "Dämonen/Zerg/Locust.md",
+    "Dämonen/Zerg/Swarm Host.md",
+    "Dämonen/Zerg/Scourge.md",
+    "Dämonen/Zerg/Roach.md",
+    "Dämonen/Zerg/Mutalisk.md",
+    "Dämonen/Zerg/Lurker.md",
+    "Dämonen/Zerg/Egg.md",
+    "Dämonen/Zerg/Larva.md",
+    "Dämonen/Zerg/Hydralisk.md",
+    "Dämonen/Zerg/Guardian.md",
+    "Dämonen/Zerg/Drone.md",
+    "Dämonen/Zerg/Corruptor.md",
+    "Dämonen/Zerg/Baneling Spawn.md",
+    "Dämonen/Zerg/Baneling.md",
+    "Dämonen/Zerg/Queen of Blades.md",
+    "Fink.md",
+    "Dämonen/Zerg/assets/Zergling.jpg",
+    "Dämonen/Zerg/assets/Viper.jpg",
+    "Dämonen/Zerg/assets/Ultralisk.jpg",
+    "Dämonen/Zerg/assets/Swarm_Host.jpg",
+    "Dämonen/Zerg/assets/Scourge.jpg",
+    "Dämonen/Zerg/assets/Roach.jpg",
+    "Dämonen/Zerg/assets/Queen_of_Blades.jpg",
+    "Dämonen/Zerg/assets/Queen.jpg",
+    "Dämonen/Zerg/assets/Overlord.jpg",
+    "Dämonen/Zerg/assets/Mutalisk.jpg",
+    "Dämonen/Zerg/assets",
+    "Dämonen/Zerg",
+    "Orte/Underdark",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Sessions/28_01_26 - Mond-Observatorium.md",
-    "Sessions/12_07_26 -.md",
-    "Orte/Alvarions Testgelände.md",
-    "NPCs/Vorbolin/Yolanda Bauernfreund.md",
-    "NPCs/Salbolin/Cedric Arven.md",
-    "NPCs/Salbolin/Roderik Sturmwacht.md",
-    "Spielercharaktere/Ilewarinir Drot.md",
-    "Dämonen/Abyssschlinger.md",
-    "Misc/Images/Pasted image 20260712090852.png",
     "Dämonen/Prinzen",
-    "NPCs/Salbolin/Valerio Goldzunge.md",
-    "Fraktionen/Handelsgilde/Joésa-Händlerdynastie.md",
-    "Gilden/Siegelgilde.md",
-    "Städte/Salbolin/Salbolin.md",
-    "Städte/Salbolin/Kronbezirk.md",
     "Untitled.base",
-    "NPCs/Roderick.md",
     "NPCs/Untitled.base",
     "NPCs/Salbolin",
     "NPCs/Vorbolin",
-    "Untitled 8.base",
-    "LoreVault.zip",
-    "Verschiedenes.zip",
-    "Misc/Images/Pasted image 20260517120605.png",
-    "Misc/Images/Pasted image 20260517112229.png",
-    "Misc/Images/Pasted image 20260102095609.png",
-    "Misc/Images/Pasted image 20260102092849.png",
-    "Misc/Images/Pasted image 20250529124332.png",
-    "Misc/Images/Pasted image 20250226173210.png",
-    "Misc/Images/Pasted image 20250226173307.png",
-    "Misc/Images/Pasted image 20250529124210.png",
-    "Misc/Images/Pasted image 20250226173147.png",
     "Untitled.canvas"
   ]
 }

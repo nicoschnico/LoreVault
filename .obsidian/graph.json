@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "path:Sessions  ",
+      "color": {
+        "a": 1,
+        "rgb": 16692223
+      }
+    },
+    {
+      "query": "path:Items/Runen  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12376650285592918,
+  "scale": 0.13867569273949776,
   "close": false
 }
