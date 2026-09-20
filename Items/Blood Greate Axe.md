@@ -1,4 +1,4 @@
-_Weapon (glaive), uncommon (requires attunement)_
+_Weapon (great axe), uncommon (requires attunement)_
 
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain 2d6 temporary hit points.
 

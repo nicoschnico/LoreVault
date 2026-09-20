@@ -35,15 +35,24 @@ Die Basaltkathedrale hat einen **gemischten Ursprung**:
 
 Graz'zt-Kultisten haben in der Altarzone einen [[Dämonen/Zerg/Overlord|Overlord]] mit einem **invertierten Bannkreis** gebunden, der auf einer verdrehten Anwendung von *Summon Greater Demon* basiert.
 
+Der maskierte [[NPCs/Bruto Joésa|Bruto Joésa]] führt das Ritual persönlich an.
+
 ### Ziel der Kultisten
 - Sie wollen sich die telepathischen Fähigkeiten des Overlords aneignen, um in [[Städte/Salbolin|Salbolin]] effektiver zu agieren.
 - Über den gebundenen Zerg wollen sie Informationen koordinieren und weitergeben.
 
 ### Ritual der Aneignung
+- Bruto Joésa trägt während des gesamten Rituals eine Maske, um seine Identität vor den Untergebenen zu verbergen.
+- Mit ihm wirken **sechs adlige Kultisten** als innerer Zirkel.
+- Diese sechs flößen **zehn untergebenen Kultisten** den Trank gewaltsam ein.
 - Dem Overlord wird bei lebendigem Leib Fleisch aus dem Körper geschnitten.
 - Aus dem Gewebe brauen die Kultisten einen Trank, der telepathische Zerg-Fähigkeiten verleihen soll.
-- Sechs Kultisten sind daran bereits gestorben; ihre Leichen liegen aufgestapelt in einer hinteren Ecke, unter einem Tuch verborgen.
-- Vier weitere Kultisten verdauen den Trank gerade und liegen stark fiebernd auf Feldbetten.
+- Mehrere der Untergebenen reagieren bereits mit schwerem Fieber und Krämpfen; einige liegen auf Feldbetten, andere wurden in den Schattenbereichen der Halle abgelegt.
+
+### Reaktion bei Eingriff der Gruppe
+- Greift die Gruppe ein, stellen sich Bruto Joésa und der innere Zirkel zuerst zum Schutz der Altarzone.
+- Verläuft der Kampf nicht zu Brutos Gunsten, bricht er die Konfrontation ab und wirkt **Teleportation** auf alle verbündeten Kultisten in seiner unmittelbaren Umgebung.
+- Dadurch zieht sich der Kern des Kults koordiniert zurück, während verbliebene Kreaturen und chaotische Effekte die Halle unsicher machen.
 
 ### Eskalation bei Kreisbruch
 - Der gefangene Overlord trägt mehrere Zerglinge und Broodlinge in sich.

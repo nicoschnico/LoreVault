@@ -102,6 +102,70 @@ Elowen selbst kann nicht an einer Expedition teilnehmen, doch die Informationen 
 - Tag 4: Zerg-Jagdrudel + Vorhof des Steinwalds
 - Finale: Guardian-Encounter im/nahe Steinwald
 
+### Narrative Reisebeschreibung
+
+#### Erzählprinzip für die Reise
+- Jeder Tag besteht aus **Vorzeichen**, **Kernabschnitt** und **Nachhall**.
+- Die Tunnel zwischen den Hauptorten sind keine leeren Wege, sondern Ausläufer der nächsten Zone.
+- Beschreibe pro Abschnitt am besten nur 2–3 starke Sinneseindrücke: **Geräusch**, **Luft/Geruch** und **Gestein/Oberfläche**.
+
+#### Tag 1 – Übergang in die Tiefe
+Der erste Abstieg sollte sich noch wie eine Expedition anfühlen, nicht wie ein Überlebenskampf. Die Tunnel tragen Spuren alter Vermessung: eingeritzte Markierungen, vereinzelte Schlagspuren im Stein, halb zerfallene Nischen für Lampen oder Werkzeug. Mit jeder Stunde verschwindet jedoch mehr von jeder Vertrautheit. Die Luft wird kühler, der Boden unebener, und jedes Poltern hallt zu lange nach.
+
+**Vorzeichen:**
+- Alte Messmarken an den Wänden
+- Brüchiger Fels und lockeres Geröll unter den Stiefeln
+- Fernes Knacken, das nicht klar zuzuordnen ist
+
+**Nachhall:**
+- Langes Echo trägt jedes Geräusch durch mehrere Nebengänge
+- Lose Steinpartikel rieseln noch Minuten nach, obwohl niemand den Fels berührt
+
+#### Tag 2 – Ausläufer der Schwefeladern
+Schon lange bevor die Gruppe den [[Schwefelbrunnen]] erreicht, verändert sich die Umgebung. Der Stein fühlt sich wärmer an, feine gelbliche Adern ziehen sich durch die Wände, und in kleinen Senken sammelt sich trübe Flüssigkeit, die streng riecht. Das Atmen wird unangenehm, als läge ständig ein Hauch verbrannter Luft auf der Zunge. Selbst harmlose Engstellen wirken hier bedrückender, weil jede Rast nach abgestandener Hitze schmeckt.
+
+**Vorzeichen:**
+- Gelbe oder grünliche Mineraladern im Stein
+- Wärmere Luftzüge aus Felsspalten
+- Schwefelgeruch, gereizte Augen, trockener Hals
+
+**Nachhall:**
+- Kleidung, Seile und Leder nehmen den Schwefelgeruch an
+- Feiner Schwefelstaub legt sich auf Metallkanten, und Wasser schmeckt abgestanden
+
+#### Tag 3 – Übergang zur [[Echokluft]]
+Der Weg zur [[Echokluft]] sollte sich unzuverlässig anfühlen. Tropfen scheinen aus der falschen Richtung zu kommen, Schritte antworten einen Herzschlag zu spät, und leise Stimmen wirken, als würden sie knapp außerhalb der Sichtweite durch Seitengänge huschen. Die Tunnel selbst müssen nicht anders aussehen als zuvor – gerade das macht sie unangenehm. Nicht der Stein verändert sich zuerst, sondern die Wahrnehmung der Gruppe.
+
+**Vorzeichen:**
+- Echos kommen versetzt oder aus falschen Richtungen zurück
+- Einzelne Laute klingen wie entfernte Stimmen oder Schritte
+- Kreuzungen wirken ähnlicher, als sie sein sollten
+
+**Nachhall:**
+- Verzögerte Echos bleiben auch in den Folgetunneln hörbar
+- Tropfgeräusche wirken weiter versetzt, obwohl der Fels gleichförmig erscheint
+
+#### Tag 4 – Vorhof des [[Steinwald]]s
+Noch bevor der [[Steinwald]] sichtbar wird, sollte der Fels unnatürlich still und geordnet wirken. Einzelne Steinformationen erinnern plötzlich an versteinerte Wurzeln, Krallen oder zusammengekauerte Tiere. Der Boden wird glatter, fast absichtlich freigeräumt, als betrete man nicht länger nur eine Höhle, sondern das Revier von etwas Altem und Beobachtendem. Gleichzeitig häufen sich Spuren der Zerg: Schleim, tiefe Kratzfurchen, rhythmische Vibrationen im Gestein.
+
+**Vorzeichen:**
+- Versteinerte Formen, die wie Natur und Skulptur zugleich wirken
+- Weniger loses Geröll, dafür glatter und fester Boden
+- Spuren organisierter Jagd: Schleim, Fraßspuren, Schabemarken
+
+**Nachhall:**
+- Frische Kratzspuren und Schleimfäden setzen sich in den angrenzenden Tunneln fort
+- Weit entfernte Vibrationen im Fels bleiben regelmäßig und kehren in gleichmäßigen Intervallen zurück
+
+#### Allgemeine Tunnel-Beschreibungen zwischen den Hauptabschnitten
+Diese Beschreibungen können flexibel eingestreut werden, wenn zwischen zwei Highlights Reisezeit überbrückt werden soll:
+
+- Der Tunnel windet sich über Stunden ohne klare Kreuzung, und gerade diese Eindeutigkeit macht ihn unheimlich – als führe er die Gruppe absichtlich tiefer.
+- Immer wieder öffnen sich Seitenspalten, aus denen kalte oder warme Luftzüge dringen, als atme der Fels selbst.
+- Der Boden verrät mehr als die Wände: alte Schleifspuren, abgebrochene Steinplatten, Kratzmarken und einmal der Abdruck eines Lagers, das längst verlassen wurde.
+- Rastplätze sind selten. Wo der Fels halbwegs eben ist, ist er meist auch feucht, zugig oder zu offen, um Sicherheit zu versprechen.
+- Je länger die Reise dauert, desto schwerer wird es, Entfernungen einzuschätzen; Stunden fühlen sich gleich an, und nur Müdigkeit, Hunger und Verbrauch von Vorräten beweisen, dass Zeit vergeht.
+
 #### Tag 1 – [[Vermessungsstollen]]
 - ⚔️ **Kampf:** 4 [[Dämonen/Zerg/Zergling|Zerglinge]] (CR 1/2, Pack Tactics) + 1 [[Dämonen/Zerg/Hydralisk|Hydralisk]] (CR 3) als Anführer haben hinter einer Geröllbarrikade einen Hinterhalt aufgebaut. Der Hydralisk feuert mit Needle Spines aus der Deckung und versucht zu fliehen, sobald er unter 30 HP fällt, um die Kolonie zu alarmieren.
   > Hydralisk: AC 13, HP 91, Needle Spines +7 (1d12+5), Poison Strikes DC 13 Con oder vergiftet. Ambusher: Vorteil auf Angriffe gegen überraschte Ziele.
@@ -109,9 +173,9 @@ Elowen selbst kann nicht an einer Expedition teilnehmen, doch die Informationen 
 - 🎲 **Ability Check:** Die Gruppe muss über ein brüchiges Geröllfeld klettern – **Athletics DC 13**. Bei Misserfolg bricht ein Stein los: lautes Poltern, Hydralisk-Hinterhalt beginnt ohne Überraschungsrunde.
 
 #### Tag 2 – [[Schwefelbrunnen]]
-- ⚔️ **Kampf:** 1 [[Dämonen/Zerg/Lurker|Lurker]] (CR 4) + 1 [[Dämonen/Zerg/Hydralisk|Hydralisk]] (CR 3) arbeiten als Team. Der Lurker liegt im Boden vergraben und wartet, während der Hydralisk sich hinter Schwefelsäulen versteckt und mit Needle Spines den Rückzug blockiert. Der Lurker greift an, sobald die Gruppe in seine 60-Fuß-Linie tritt und treibt sie so direkt in den Hydralisk hinein.
-  > Lurker: AC 14, HP 97, Tremorsense 90 ft., Subterranean Spines DC 14 Dex oder 4d6 + prone. Hydralisk: AC 13, HP 91, Needle Spines +7 (1d12+5), Poison Strikes DC 13 Con.
-  > **~2.700 XP (Medium-Hard)**
+- ⚔️ **Kampf:** 1 Basilisk (CR 3) + 1 Carrion Crawler (CR 2) jagen im Bereich der warmen Schwefelspalten. Der Basilisk hält frontal Druck, während der Carrion Crawler über Wand und Decke flankiert und mit Tentakeln lähmen will.
+  > Basilisk: Petrifying Gaze (DC 12 Con), hoher Nahkampfdruck. Carrion Crawler: Deckenangriffe, Paralyse-Tentakel, zieht isolierte Ziele in Engstellen.
+  > **Lärmkomplikation:** Dauert der Kampf länger als 3 Runden oder fällt ein lauter Flächeneffekt, erscheint mit 50 % Chance im Folgetunnel 1 [[Dämonen/Zerg/Zergling|Zergling]]-Spähertrupp.
 
 - 🎲 **Ability Check:** Giftige Schwefeldämpfe füllen den Korridor – **Constitution Save DC 13** oder 1W6 Gift-Schaden und Nachteil auf Wahrnehmung bis zur nächsten Rast. **Survival DC 14** kann Tücher als Atemschutz improvisieren (gibt Vorteil auf den Save).
 
@@ -122,10 +186,11 @@ Elowen selbst kann nicht an einer Expedition teilnehmen, doch die Informationen 
 - 🎲 **Ability Check:** Akustische Täuschungen imitieren Stimmen und Schritte – **Perception DC 15** (oder Investigation DC 14 mit Karte). Bei Misserfolg läuft die Gruppe 1–2 Stunden falsch, und die Zerglinge holen die Gruppe ein.
 
 #### Tag 4 – [[Vorhof des Steinwalds]]
-- ⚔️ **Kampf:** 1 [[Dämonen/Zerg/Roach|Roach]] (CR 3, Regeneration, Adaptive Plating) + 3 [[Dämonen/Zerg/Zergling|Zerglinge]] haben die Gruppe seit Stunden per Tremorsense verfolgt und greifen an einer engen Stelle an. Die Roach tankt vorne, während Zerglinge flankieren.
-  > Roach: AC 13 (→16 unter 50 % HP), HP 104, Acidic Saliva +5 (4d10+3 Säure), Regeneration 5 HP/Runde wenn unversehrt.
+- ⚔️ **Kampf:** 2 Hook Horrors (je CR 3) beanspruchen eine Engstelle als Jagdrevier und greifen aus erhöhter Position an. Sie versuchen, ein Ziel abzudrängen und in eine Spalte zu ziehen.
+  > Hook Horror: starke Nahkampfangriffe, Klettervorteil im Fels, nutzt Höhe und Deckung.
+  > **Lärmkomplikation:** Nach 2–3 Kampfrunden kann 1 [[Dämonen/Zerg/Mutalisk|Mutalisk]] über dem Vorhof kreisen und mit Kreischlauten Jagdtrupps anlocken; dadurch steigt der Druck vor dem Finale.
 
-- 🎲 **Ability Check:** Ein [[Dämonen/Zerg/Overlord|Overlord]] (CR 2, Truesight 90 ft.) kreist langsam über dem Vorhof und leitet alle Zerg-Bewegungen per Telepathie. **Stealth DC 17** (Gruppencheck), solange er in der Luft ist – bei Misserfolg werden Verstärkungen gerufen. Alternativ: **Ranged Attack DC 15** oder Spell, um ihn zu vertreiben, bevor die Gruppe sich anschleicht.
+- 🎲 **Ability Check:** Ein [[Dämonen/Zerg/Mutalisk|Mutalisk]] (CR 2, fliegend, sehr wachsam) zieht Suchkreise über dem Vorhof und stößt bei Sichtkontakt schrille Warnrufe aus. **Stealth DC 17** (Gruppencheck), solange er in der Luft ist – bei Misserfolg werden Verstärkungen gerufen. Alternativ: **Ranged Attack DC 15** oder Spell, um ihn zu vertreiben, bevor die Gruppe sich anschleicht.
 
 #### Finale – [[Steinwald]] ([[Dämonen/Zerg/Guardian|Guardian]]-Encounter)
 - Der [[Dämonen/Zerg/Guardian|Guardian]] (CR 5, Huge, HP 142, fly 20 ft.) ist das bewachende Urvieh der Kolonie.
@@ -141,21 +206,21 @@ Elowen selbst kann nicht an einer Expedition teilnehmen, doch die Informationen 
 - Garantierte Belohnung auch ohne Steinwald-Ankunft (Artefakt + Kartensplitter)
 
 #### Bereich A – Verzweigte Tunnel
-- ⚔️ **Kampf:** Ein kleiner Dämonenüberfall aus einem Seitentunnel – 2 Dretch und 1 Quasit. Während des Kampfes tauchen 1 [[Dämonen/Zerg/Roach|Roach]] (CR 3) + 3 [[Dämonen/Zerg/Zergling|Zerglinge]] (Swarmling Strain, CR 1/2) auf, angelockt vom Lärm – die Dämonen fliehen sofort. Die Roach tankt vorne, die Zerglinge flankieren. Da alle Swarmling Strain sind, teilen sie Wahrnehmung und koordinieren sich auffällig gut.
-  > Roach: AC 13 (→16 unter 50 % HP), HP 104, Acidic Saliva +5 (4d10+3), Regeneration 5 HP/Runde. Swarmling Zergling: Shared Knowledge – Vorteil auf Perception/Nature innerhalb 30 ft.
-  > **~2.000 XP (Medium)**
+- ⚔️ **Kampf:** 3 rivalische Schatzsucher (Plünderer-Trupp, gemischt bewaffnet) überfallen die Gruppe an einer Kreuzung, um Vorräte und Karten zu stehlen. Sobald Metall auf Stein hallt, werden 2 [[Dämonen/Zerg/Zergling|Zerglinge]] (Swarmling Strain, CR 1/2) angelockt und greifen die nächstgelegenen Ziele an.
+  > Die Plünderer kämpfen aus Deckung und versuchen, mit Beute zu fliehen, statt bis zum Tod zu kämpfen. Swarmlinge nutzen Shared Knowledge zur Koordination.
+  > **~1.800–2.100 XP (Medium)**
 
 - 🎲 **Ability Check:** Mehrfachkreuzung ohne Markierungen – **Survival DC 14** (oder Investigation DC 13 mit Elowens Notizen). Bei Misserfolg verliert die Gruppe 4 Stunden und verbraucht eine zusätzliche Ration.
 
 #### Bereich B – Pilzgrotten
-- ⚔️ **Kampf:** 1 [[Dämonen/Zerg/Swarm Host|Swarm Host]] (CR 5, HP 135) hat sich halb vergraben in den Pilzen eingenistet. Er selbst kämpft kaum – aber alle 2 Runden spawnt er 2 [[Dämonen/Zerg/Locust|Locusts]] (CR 1, Acidic Saliva). Solange der Swarm Host vergraben ist, hat er Dreiviertel-Deckung.
-  > Swarm Host muss vergraben sein für Spawn Locust. Zerstört man ihn zuerst, enden alle aktiven Locusts nach 1 Minute.
+- ⚔️ **Kampf:** 2 Carrion Crawler (je CR 2) haben in den Pilzgrotten ein Nest angelegt und reagieren aggressiv auf Licht und Erschütterung. Sie greifen aus mehreren Höhenebenen an und versuchen, Beute zu lähmen und in Spalten zu ziehen.
+  > Bei Feuerzaubern oder Explosionslärm besteht 50 % Chance auf spätere Zerg-Verfolger.
 
 - 🎲 **Ability Check:** Halluzinogene Sporen in den Pilzen – **Constitution Save DC 12** oder Nachteil auf Initiative und Wahrnehmung für 1W4 Stunden. **Medicine DC 13** stabilisiert Betroffene.
 
 #### Bereich C – Verlassene Ritualhöhle
-- ⚔️ **Kampf:** 1 [[Dämonen/Zerg/Hydralisk|Hydralisk]] (CR 3) + 1 [[Dämonen/Zerg/Lurker|Lurker]] (CR 4) bewachen die Höhle als Team: Der Lurker liegt vergraben und wartet auf den Rückzug der Gruppe, während der Hydralisk von vorne feuert.
-  > Kombination: Hydralisk treibt Gruppe in die Linie des Lurkers. Lurker: Subterranean Spines in 60 ft. Linie, DC 14 Dex oder 4d6 + prone.
+- ⚔️ **Kampf:** 1 Kult-Magier (CR 2) + 2 fanatische Kultisten (je CR 2) versuchen, das unvollendete Graz'zt-Siegel zu stabilisieren. Sie kämpfen defensiv und opfern Zeit, um ein Resonanzsignal auszulösen.
+  > **Signal-Effekt:** Nach 3 Runden oder bei lautem Flächenschaden kommen 1 [[Dämonen/Zerg/Hydralisk|Hydralisk]] oder 2 [[Dämonen/Zerg/Zergling|Zerglinge]] als Verstärkung aus dem Nebentunnel.
 
 - 🎲 **Ability Check:** Graz'zt-Kultspuren über die Wände verteilt. **Arcana DC 13** oder **Religion DC 14**, um die Ritualkreise zu deuten und brauchbare Hinweise mitzunehmen. Bei Erfolg: das unvollendete Beschwörungssiegel verrät einen Namen – und ob der Lurker-Hinterhalt bereits eine Kultfalle war.
 
@@ -170,6 +235,8 @@ Elowen selbst kann nicht an einer Expedition teilnehmen, doch die Informationen 
 
 
 ### Ergebnisse & Folgen
+
+- **Fazit:** Die Gruppe wird im Verbindungstunnel zwischen [[Vermessungsstollen]] und [[Pilzbiom]] von **8 [[Dämonen/Zerg/Zergling|Zerglingen]]** verfolgt.
 
 
 ### Nächste Schritte
