@@ -36,6 +36,9 @@ Das Pilzbiom ist durch eine seltene Kombination aus Feuchtigkeit, Wärme und min
 ### Bewohner
 - Eine kleine Druidenenklave, der [[Fraktionen/Myzelzirkel|Myzelzirkel]], lebt in geschützten Sporenkammern am Rand des Bioms.
 - Die Druiden bewachen zentrale Mycelknoten und dulden nur Besucher, die den Pilzwald respektieren.
+- Der Zirkel besteht aus fünf Druiden, deren Stufen höchstens 8 betragen.
+- Ihre kleinen Hütten stehen auf den Schirmen besonders großer Pilzbäume und sind über natürliche Pilzstege erreichbar.
+- Aus Pilzfäden gewobene Schuhe erlauben den Druiden, sich ungehindert über den Mycelteppich und durch den Pilzwald zu bewegen.
 
 ## Möglicher Encounter
 

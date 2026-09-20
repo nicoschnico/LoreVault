@@ -27,11 +27,23 @@
 - Das Rudel bleibt zwischen den Pilzsäulen und dem Mycelteppich eine unmittelbare Bedrohung.
 
 #### Entdeckungen und Beute
+- Im Inneren des Pilzbioms kann die Gruppe auf den [[Fraktionen/Myzelzirkel|Myzelzirkel]] stoßen.
+- Die Druiden leben in Wohnhöhlen in den Außenwänden des Bioms und bewegen sich dank ihrer Pilzfadenschuhe ungehindert über das Mycel.
+- [[Maelis Wurzelhauch]] berichtet, dass [[Tharok Sporenhand]] und [[Nimu Pilzlicht]] seit einer Woche vermisst werden.
+- Die beiden Druiden untersuchten eine dämonische Fäulnis, die von einem im Mycel gefangenen [[Dämonen/Zerg/Overlord|Overlord]] ausgeht.
+- Frische Creep-Fäden und Zergling-Spuren führen durch einen zweiten Ausgang in Richtung [[Orte/Underdark/Schwefelbrunnen|Schwefelbrunnen]].
+- In dessen innerster Kammer produziert eine [[Dämonen/Zerg/Queen|Queen]] in ihrer Broodmother-Variante neue Zerglinge und Banelinge.
 
 #### Konsequenzen
 - Die Gruppe sitzt im Pilzbiom fest oder muss einen alternativen Ausgang finden.
 - Der Rückweg kann erst wieder genutzt werden, wenn das Rudel abgehängt, besiegt oder abgelenkt wurde.
-- Der Cliffhanger für die nächste Session: Vor der Gruppe liegt das unbekannte Innere des Pilzbioms, hinter ihr wartet das Zergling-Rudel.
+- Der Cliffhanger für die nächste Session: Hinter der Gruppe wartet das Zergling-Rudel; vor ihr liegen der Myzelzirkel, die Spur der vermissten Druiden und die Fäulnisquelle.
+
+### Neuer Auftrag: Die Fäulnis unter dem Pilzbiom
+- Nach einer erfolgreichen Flucht oder Begegnung mit dem Myzelzirkel erhält die Gruppe den Auftrag [[Quests/active/Die Fäulnis unter dem Pilzbiom|Die Fäulnis unter dem Pilzbiom]].
+- Die Gruppe soll [[Tharok Sporenhand]] und [[Nimu Pilzlicht]] finden und die Ausbreitung der Fäulnis stoppen.
+- Zusätzlich muss verhindert werden, dass die Zerglinge die Brutstätte im [[Orte/Underdark/Schwefelbrunnen|Schwefelbrunnen]] infizieren.
+- Das Schicksal des Overlords bleibt offen: Befreiung, Reinigung, Tötung oder Versiegelung.
 
 ### Rückkehr an die Oberfläche
 - Schafft die Gruppe den Rückweg, erreicht sie wieder die Oberfläche und kann nach [[Vorbolin]] zurückkehren.

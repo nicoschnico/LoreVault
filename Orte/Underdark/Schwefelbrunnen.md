@@ -5,7 +5,7 @@ description: Heißes Kammerfeld mit giftigen Schwefeldämpfen und versinterten B
 ursprung: Natürliches hydrothermales Feld, später durch dämonische Wärmeadern verschärft
 zugang: Abzweig hinter den alten Vermessungsstollen
 merkmale: Gasblasen, gelbe Sinterterrassen, kochende Pfützen
-begegnungen: Dämonenläufer, Zerglinge, Banelinge, Umwelt-Encounter
+begegnungen: Dämonenläufer, Zerglinge, Banelinge, Queen, Umwelt-Encounter
 gefährlichkeit: Hoch
 ---
 
@@ -26,11 +26,13 @@ Der Schwefelbrunnen ist **vor allem natürlich** entstanden:
 - **Vorkammer:** trockener Fels mit ersten Gasfahnen
 - **Beckenring:** kochende, mineralische Pfützen und Sinterstufen
 - **Tiefenzone:** dichte Gasdecken, kaum sichere Rastpunkte
+- **Innere Brutkammer:** abgeschirmte Höhle mit Eiern, Creep-Nestern und der dort ansässigen [[Dämonen/Zerg/Queen|Queen]] in ihrer Broodmother-Variante.
 
 ### Spielrelevanz
 - Langes Verweilen ohne Schutz führt schnell zu Erschöpfung.
 - Der Boden ist rutschig; Ausweichmanöver sind erschwert.
 - Zerglinge nutzen die Schwefelbecken als Brutnester: Verpuppung kann laufende Kämpfe plötzlich eskalieren.
+- Die Queen produziert in der innersten Kammer fortlaufend [[Dämonen/Zerg/Zergling|Zerglinge]] und [[Dämonen/Zerg/Baneling|Banelinge]].
 
 ## Möglicher Encounter
 
@@ -42,6 +44,15 @@ Der Schwefelbrunnen ist **vor allem natürlich** entstanden:
 - **Eskalation:** Zu Beginn der zweiten Kampfrunde schlüpfen 1W4 Banelinge aus den nächstgelegenen Becken (oder sofort, falls Feuer-/Säureschaden ein Becken trifft).
 - **Spielziel:** Die Gruppe muss die Verpuppung unterbrechen, die Banelinge kontrollieren oder die Dämonen ausschalten, bevor die Gaszone kippt.
 
+### 1) Die Broodmother in der innersten Kammer
+- Eine [[Dämonen/Zerg/Queen|Queen]] in ihrer Broodmother-Variante hat sich in der innersten Kammer niedergelassen.
+- Sie bewacht ihre Eier und produziert fortlaufend [[Dämonen/Zerg/Zergling|Zerglinge]] und [[Dämonen/Zerg/Baneling|Banelinge]].
+- Die Gruppe kann die Queen direkt angreifen, die Eier zerstören oder die Brutkammer vom verfaulten Creep abschneiden.
+- **Eskalation:** Solange die Queen lebt und Zugang zu Creep hat, werden besiegte Zerglinge durch neue Brut ersetzt. Beschädigte Eier können beim Aufbrechen sofort einen Baneling freisetzen.
+- **Spielziel:** Töte oder vertreibe die Queen, vernichte die infizierten Eier und verhindere, dass der verfaulten Creep die gesamte Brutstätte erreicht.
+
 ## Lore-Verbindungen
 - [[Underdark]]
 - [[Steinwald]]
+- [[Fraktionen/Myzelzirkel|Myzelzirkel]]
+- [[Orte/Underdark/Pilzbiom|Pilzbiom]]: Ein infizierter [[Dämonen/Zerg/Overlord|Overlord]] schickt Zerglinge durch einen Seitentunnel, um die Brutstätte im Schwefelbrunnen mit verfaultem Creep zu infizieren.
