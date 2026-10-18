@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git status --short -- \"Sessions\\\\17_10_26 - Zollhausleck von Vorbolin\\.md\"; git check-ignore -v \"Sessions\\\\17_10_26 - Zollhausleck von Vorbolin\\.md\"; git --no-pager diff --no-index NUL \"Sessions\\\\17_10_26 - Zollhausleck von Vorbolin\\.md\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -14,7 +14,7 @@ vorkommen:
 *Huge monstrosity, unaligned*
 
 Ein elefantengroßer, krabbenartiger Jäger mit baumhohem Pilzaufsatz. Er bindet Beute mit Scheren und macht Nahkampf durch Sporeneruptionen gefährlich.
-
+ 
 ## Stats
 
 **Armor Class** 16 (natural armor)  

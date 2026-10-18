@@ -20,8 +20,8 @@ Zerglings hatch in sets of two or three and are the most numerous creatures in t
 
 ## Stats
 
-**Armor Class** 13\
-**Hit Points** 33 (6d8 + 5)\
+**Armor Class** 13
+**Hit Points** 33 (6d8 + 5)
 **Speed** 50 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |

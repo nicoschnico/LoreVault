@@ -8,139 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7acb553f89507ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Vermessungsstollen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vermessungsstollen"
-            }
-          },
-          {
-            "id": "d01f40099b692bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Schwefelbrunnen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schwefelbrunnen"
-            }
-          },
-          {
-            "id": "7bac675a8b2bb36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Echokluft.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Echokluft"
-            }
-          },
-          {
-            "id": "670cf8d4068acfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Steinwald.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steinwald"
-            }
-          },
-          {
-            "id": "7440f596b2ab4623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Scherbenhort.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scherbenhort"
-            }
-          },
-          {
-            "id": "6ca4b03f7701ba08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Basaltkathedrale.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basaltkathedrale"
-            }
-          },
-          {
-            "id": "90000680f3d28ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Das Kronjuwel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das Kronjuwel"
-            }
-          },
-          {
-            "id": "2af5d08b8f493c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orte/Underdark/Landkarte - Underdark (Salbolin-Region).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Landkarte - Underdark (Salbolin-Region)"
-            }
-          },
-          {
-            "id": "7b10cb7b473a5339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/16_08_26 - Höhlen unter Salbolin.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16_08_26 - Höhlen unter Salbolin"
-            }
-          },
-          {
-            "id": "7b7b6b370867f200",
+            "id": "c41e89d1b7c65481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NPCs/Salbolin/Elowen Voss.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -153,30 +27,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dämonen/Zerg/Zerg Bestiary.md",
+                "file": "Sessions/20_09_26 - Pilzbiom.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zerg Bestiary"
+              "title": "20_09_26 - Pilzbiom"
             }
           },
           {
-            "id": "bd48107362ebb42e",
+            "id": "e52e0042164f16c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dämonen/Zerg/Baneling.md",
+                "file": "Orte/Underdark/Pilzbiom.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baneling"
+              "title": "Pilzbiom"
+            }
+          },
+          {
+            "id": "7073a4d5cf9441be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Salbolin/Terren Valis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terren Valis"
+            }
+          },
+          {
+            "id": "26db3022713cfe81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/active/Zollhausleck von Vorbolin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zollhausleck von Vorbolin"
+            }
+          },
+          {
+            "id": "05a63d7d2503d4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/17_10_26 - Zollhausleck von Vorbolin.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17_10_26 - Zollhausleck von Vorbolin"
+            }
+          },
+          {
+            "id": "1ea7e0508e19cc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Vorbolin/Yolanda Bauernfreund.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yolanda Bauernfreund"
+            }
+          },
+          {
+            "id": "e5d8b2dcb363099d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Städte/Salbolin/Struktur von Salbolin.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struktur von Salbolin"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood",
+                "query": "windh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,34 +299,35 @@
       "ai_llm:Local LLM Chat": false
     }
   },
-  "active": "2af5d08b8f493c58",
+  "active": "26db3022713cfe81",
   "lastOpenFiles": [
-    "Sessions/20_09_26 - Pilzbiom.md",
-    "Quests/active/Die Fäulnis unter dem Pilzbiom.md",
-    "Fraktionen/Myzelzirkel.md",
-    "Rassen/Monstrosities/Giant Parasect (Large).md",
-    "Rassen/Monstrosities/Giant Parasect (Huge).md",
+    "Sessions/17_10_26 - Zollhausleck von Vorbolin.md",
+    "NPCs/Vorbolin/Yolanda Bauernfreund.md",
+    "Städte/Salbolin/Struktur von Salbolin.md",
+    "Quests/active/Zollhausleck von Vorbolin.md",
     "Orte/Underdark/Pilzbiom.md",
-    "Sessions/16_08_26 - Höhlen unter Salbolin.md",
-    "Orte/Underdark/Landkarte - Underdark (Salbolin-Region).md",
-    "Dämonen/Zerg/Zerg Bestiary.md",
-    "Dämonen/Zerg/Swarm Host.md",
-    "Dämonen/Zerg/Baneling.md",
+    "NPCs/Salbolin/Terren Valis.md",
+    "NPCs/Salbolin/Elowen Voss.md",
+    "Städte/Salbolin/Salzhalle.md",
+    "Rassen/Monstrosities/Giant Parasect (Huge).md",
     "Dämonen/Zerg/Zergling.md",
-    "Items/Blood Greate Axe.md",
+    "Sessions/12_10_26 - Zollhausleck von Vorbolin.md",
+    "Städte/Salbolin/Altwall.md",
+    "Orte/Underdark/Landkarte - Underdark (Salbolin-Region).md",
+    "Orte/Underdark/Underdark.md",
+    "Sessions/20_09_26 - Pilzbiom.md",
+    "Lore/Übergreifend/Runen.md",
+    "Orte/Underdark/Basaltkathedrale.md",
+    "Orte/Underdark/Scherbenhort.md",
+    "Orte/Underdark/Steinwald.md",
+    "Orte/Underdark/Echokluft.md",
     "Orte/Underdark/Schwefelbrunnen.md",
     "Orte/Underdark/Vermessungsstollen.md",
-    "Orte/Das Kronjuwel.md",
-    "Orte/Underdark/Blutmondgrotte.md",
-    "NPCs/Salbolin/Elowen Voss.md",
-    "Städte/Salbolin/Struktur von Salbolin.md",
-    "Orte/Underdark/Basaltkathedrale.md",
-    "Städte/Salbolin/Salbolin.md",
-    "Orte/Underdark/Underdark.md",
-    "Orte/Underdark/Echokluft.md",
-    "Orte/Underdark/Scherbenhort.md",
-    "Rassen/Monstrosities/Kristallechse.md",
-    "assets/Kristallechse.png.md",
+    "Items/Runen/Mondlichtrune.md",
+    "Items/Runen/Rune des Steinsprechs.md",
+    "Fraktionen/Myzelzirkel.md",
+    "Untitled 3.base",
+    "Rassen/Monstrosities/Giant Parasect (Large).md",
     "assets",
     "Misc/Images/kristallechse.png",
     "Rassen/Monstrosities/assets",
@@ -402,7 +347,6 @@
     "Orte/Underdark",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Dämonen/Prinzen",
     "Untitled.canvas"
   ]
 }

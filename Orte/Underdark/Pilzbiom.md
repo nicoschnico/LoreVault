@@ -40,6 +40,28 @@ Das Pilzbiom ist durch eine seltene Kombination aus Feuchtigkeit, Wärme und min
 - Ihre kleinen Hütten stehen auf den Schirmen besonders großer Pilzbäume und sind über natürliche Pilzstege erreichbar.
 - Aus Pilzfäden gewobene Schuhe erlauben den Druiden, sich ungehindert über den Mycelteppich und durch den Pilzwald zu bewegen.
 
+## Mechanik: Sporenwolken & Fleischfressendes Myzel
+
+### Mycelteppich (Terrain-Gefahr)
+Der Mycelteppich bedeckt weite Teile des Bioms und gilt als schwieriges Gelände. Zusätzlich:
+- **Festsetzen:** Wer sich zu Fuß hindurchbewegt, muss am Ende jeder Bewegung, die den Teppich berührt, einen **DC 13 Geschicklichkeitswurf** ablegen. Bei Misserfolg wird die Kreatur **festgehalten (restrained)** – das Mycel klammert sich an Haut, Fell oder Rüstung.
+- **Befreien:** Eine festgehaltene Kreatur kann als Aktion einen **DC 13 Stärke(Athletik)-Wurf** versuchen, um sich zu befreien. Jeder Verbündete, der in Reichweite hilft, gewährt Vorteil auf diesen Wurf.
+- **Nährstoffentzug:** Eine festgehaltene Kreatur erleidet zu Beginn jedes ihrer Züge **1W6 nekrotischen Schaden**, da das Mycel beginnt, Feuchtigkeit und organisches Material zu entziehen. Dieser Schaden ignoriert Rüstung, aber nicht Resistenzen gegen nekrotischen Schaden.
+- **Pulsieren:** Alle zwei Runden (gerade Initiative-Zählungen) „pulsiert" der Teppich in einem Radius von 6 m um einen zentralen Mycelknoten. Bereits festgehaltene Kreaturen sinken tiefer ein: der Befreiungs-DC steigt für diese Runde auf **DC 16**, und der Nährstoffentzug erhöht sich auf **2W6**.
+- **Mycelknoten zerstören:** Ein zentraler Knoten hat **AC 11, 20 TP** und Resistenz gegen Wurf-/Hiebschaden (Pilzmasse dämpft Schläge), aber Verwundbarkeit gegen Feuerschaden. Wird ein Knoten zerstört, verliert der Teppich im Umkreis von 9 m für **1 Minute** seine Klebrigkeit (kein Festsetzen, kein Nährstoffentzug in diesem Bereich).
+
+### Sporenwolken
+Erschütterungen (schwere Schritte, Kämpfe, herabstürzende Trümmer) lösen Sporenwolken aus:
+- **Auslöser:** Jede Kreatur, die sich mit mehr als der halben Bewegungsrate durch den Mycelteppich bewegt, kämpft oder zu Boden geht, löst eine Sporenwolke in einem Radius von 3 m um sich aus.
+- **Wirkung:** Jede Kreatur im Bereich muss einen **DC 12 Konstitutionswurf** ablegen.
+  - Bei Misserfolg ist die Kreatur bis zum Ende ihres nächsten Zuges **geblendet** (feiner Sporenstaub reizt die Augen) und erleidet **1W4 Giftschaden** durch Einatmen.
+  - Bei kritischem Misserfolg (Wurf ≤ 5) ist die Kreatur zusätzlich **eine Minute lang vergiftet**, bis sie sich erfolgreich frei hustet (Aktion, erneuter DC 12 Konstitutionswurf am Ende jedes eigenen Zuges).
+- **Sichtweite:** Solange eine Sporenwolke aktiv ist (1 Runde, verlängert sich bei erneutem Auslösen), gilt der betroffene Bereich als **stark verdunkelt** für alle ohne Atemschutz.
+- **Gegenmaßnahme:** Ein Tuch, eine Maske oder ein *Ring of Sustenance*-artiger Atemfilter gewährt Vorteil auf den Rettungswurf; die Druiden des Myzelzirkels tragen entsprechende Pilzfaden-Masken und sind vollständig immun.
+
+### Zusammenspiel
+Die beiden Mechaniken verstärken sich: Wer im Teppich festsitzt und gleichzeitig eine Sporenwolke auslöst, kämpft gegen Erblindung, Gift und Nährstoffentzug zugleich – genau das Szenario, das die Parasects ausnutzen, um wehrlose Beute zu isolieren.
+
 ## Möglicher Encounter
 
 ### 0) Der atmende Pilzwald
